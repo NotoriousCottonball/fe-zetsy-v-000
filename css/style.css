@@ -11,6 +11,18 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+  transition: border 2s ease-out 1s;
+	padding: 1px;
+}
+
+#press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
 
 
 h1 {
