@@ -58,7 +58,9 @@ header a:hover {
 	cursor: pointer;
 }
 
-
+#press {
+	margin-bottom: 20px;
+}
 
 #press img {
   transition: border 2s ease-out 1s;
