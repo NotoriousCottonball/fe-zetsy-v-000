@@ -11,19 +11,12 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
-#press {
-	margin-bottom: 20px;
+.wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 0 45px 20px;
 }
-
-#press img {
-  transition: border 2s ease-out 1s;
-	padding: 1px;
-}
-
-#press img:hover {
-  border: 5px rgb(111,127,122) solid;
-}
-
 
 h1 {
 	padding-bottom: 10px;
