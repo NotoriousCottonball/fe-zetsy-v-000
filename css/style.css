@@ -63,13 +63,13 @@ header a:hover {
 }
 
 #press img {
+  transition: border 2s ease-out 1s;
 	border: 5px #ccc solid;
 	padding: 1px;
 }
 
 #press img:hover {
-  transition: border 2s ease-in 1s;
-	border: 5px rgb(111,127,122) solid;
+  border: 5px rgb(111,127,122) solid;
 }
 
 footer {
